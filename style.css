@@ -1,0 +1,37 @@
+* {
+    margin-right: 150px;
+    line-height: 1.2;
+    font-family: "Arial", sans-serif;
+}
+
+h3 {
+    font-family: "Trebuchet", sans-serif;
+    font-weight: lighter;
+}
+
+.heading {
+    font-family: "Trebuchet", sans-serif;
+    text-align: center;
+    font-size: 40pt;
+    font-weight: lighter;
+}
+
+p {
+    margin-left: 25px;
+   
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-right:350px;
+}
+
+.recipe-list {
+    font-family: "Arial", sans-serif;
+    font-size: 20pt;
+    line-height: 3;
+    margin-left: 80px;
+    list-style-type: none;
+
+}
