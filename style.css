@@ -29,9 +29,17 @@ img {
 
 .recipe-list {
     font-family: "Arial", sans-serif;
-    font-size: 20pt;
+    font-size: 18pt;
     line-height: 3;
-    margin-left: 80px;
     list-style-type: none;
+    margin-left: 250px;
+    margin-right: 0;
+}
 
+#picture {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+   
 }
